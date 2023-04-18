@@ -1,0 +1,474 @@
+.product__description, .base-padding {
+    padding: 0;
+    border-radius: 0px;
+    }
+    .rowenta_tn img {
+      margin: 0;
+    }
+    .rowenta_tn p {
+      padding: 0;
+      margin: 0;
+      font-family: 'Roboto', sans-serif;
+      font-style: normal;
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 130%;
+      color: #221F1F;
+    }
+    .rowenta_tn h3,
+    .rowenta_tn h2 {
+      padding: 0;
+      margin: 0;
+      font-family: 'Roboto';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 20px;
+      line-height: 130%;
+      margin-bottom: 16px;
+    }
+    .rowenta_tn ul {
+      list-style: none;
+      margin: 0;
+    }
+    .rowenta_tn ul li {
+      line-height: normal;
+    }
+    .rowenta_tn {
+      overflow: hidden;
+    }
+    body {
+      padding: 0;
+      margin: 0;
+    }
+    .rowenta_tn ul {
+      padding: 0;
+    }
+    .rowenta_tn ul li {
+      padding: 0;
+    }
+    .rowenta_tn div {
+      padding: 0;
+    }
+    div.rowenta_tn {
+      padding: 0;
+    }
+    .rowenta_tn br {
+      display: block;
+    }
+    .product__body .el-tabs__header {
+      z-index: 6;
+    }
+    .rowenta_tn{
+      max-width: 1366px;
+      margin: 0 auto;
+      overflow-x: hidden;
+    }
+    .rowenta_tn img{
+      width: 100%;
+      height: auto;
+    }
+
+    /* hybrid_trimmer */
+
+    
+
+
+    .rowenta_tn .hybrid_trimmer {
+        padding: 24px 16px 0;
+    }
+    
+
+
+
+    .rowenta_tn .hybrid_trimmer .logo_rowenta_tn{
+        width:184px ;
+        padding-left: 32px;
+    }
+
+    .rowenta_tn .hybrid_trimmer .logo_block{
+        padding-bottom: 16px;
+    }
+
+    .rowenta_tn .hybrid_trimmer .hybrid_block{
+        background-image: url('https://i.citrus.world/uploads/content/product-photos/kirsh/705501/image%2020.png?_t=1681804497');
+        background-position: 0 0;
+        background-repeat: no-repeat;
+        background-size: 100%;
+        position: relative;
+        border-radius: 27px;
+        padding: 22.88px 32px;
+        display: grid;
+        gap: 59px 30px;
+        grid-template-areas:
+         'a b'
+         'c b ' ;
+
+    }
+
+    .rowenta_tn .hybrid_trimmer .hybrid_block .hybrid_photo{
+        width: 56.39px;
+        grid-area: b;
+        margin-top: -58px;
+    }
+    .rowenta_tn .hybrid_trimmer .hybrid_text_block{
+        grid-area: c;
+    }
+
+    .rowenta_tn .hybrid_trimmer .hybrid_block .f1_logo{
+        width: 134.6px;
+        grid-area: a;
+    }
+    .rowenta_tn .hybrid_trimmer .hybrid_block .hybrid_text_block h3{
+        color: #F05943 ;
+        width:124px ;
+        margin-bottom: 0;
+        font-size: 16px;
+
+
+    }
+    .rowenta_tn .hybrid_trimmer .hybrid_block .hybrid_text_block h2{
+        color: #ffff ;
+        margin-bottom: 10px;
+        font-size: 16px;
+
+    }
+
+    @media screen and (max-width:358px) {
+        .rowenta_tn .hybrid_trimmer .hybrid_block{
+            padding: 15px 16px;
+            display: grid;
+            gap: 30px 30px;
+        }
+        .rowenta_tn .hybrid_trimmer .logo_rowenta_tn{
+            padding-left: 10px;
+        }
+
+    }
+
+
+
+@media screen and (min-width:666px) {
+
+    body{
+        padding: 0 24px;
+    }
+
+    .rowenta_tn .hybrid_trimmer .hybrid_block .hybrid_text_block h3{
+        width:auto;
+        font-size: 21px;
+
+
+    }
+    .rowenta_tn .hybrid_trimmer .hybrid_block .hybrid_text_block h2{
+        margin-bottom: 12px;
+        font-size: 21px;
+    }
+
+    .rowenta_tn .hybrid_trimmer .hybrid_block{
+        background-image: url('https://i.citrus.world/uploads/content/product-photos/kirsh/705501/image%2015.png?_t=1681804496');
+        padding: 31px 40px;
+
+    }
+
+    .rowenta_tn .hybrid_trimmer{
+        padding: 40px 24px 0;
+    }
+
+    .rowenta_tn .hybrid_trimmer .logo_rowenta_tn{
+        width: 196px;
+    }
+    .rowenta_tn .hybrid_trimmer .hybrid_block .f1_logo{
+        width: 165.6px;
+    }
+    .rowenta_tn .hybrid_trimmer .hybrid_block .hybrid_photo{
+        width: 69px;
+        position: absolute;
+        right: 90px;
+        bottom: -40px;
+
+    }
+    .rowenta_tn .hybrid_trimmer .logo_block{
+        padding-bottom: 19px;
+    }
+}
+
+@media screen and (min-width:1024px) {
+    .rowenta_tn .hybrid_trimmer .hybrid_block .hybrid_text_block h3{
+        font-size: 28px;
+    }
+    .rowenta_tn .hybrid_trimmer .hybrid_block .hybrid_text_block h2{
+        margin-bottom: 16px;
+        font-size: 28px;
+    }
+
+    .rowenta_tn .hybrid_trimmer .hybrid_block{
+        gap: 65px;
+        padding: 42px 53px 42px;
+    }
+
+    .rowenta_tn .hybrid_trimmer .logo_block{
+        padding-bottom: 25px;
+    }
+
+    .rowenta_tn .hybrid_trimmer .logo_rowenta_tn{
+        width: 262px;
+    }
+    .rowenta_tn .hybrid_trimmer .hybrid_block .f1_logo{
+        width: 220px;
+    }
+
+    .rowenta_tn .hybrid_trimmer .hybrid_block .hybrid_photo{
+        width: 92px;
+        right: 117px;
+        bottom: -58px;
+    }
+
+    .rowenta_tn .hybrid_trimmer{
+        padding:40px 40px 0;
+    }
+
+    .rowenta_tn p { 
+        font-size: 16px;
+      }
+      .rowenta_tn h3,
+      .rowenta_tn h2 {
+       
+        font-size: 24px;
+        margin-bottom: 24px;
+      }
+
+
+}
+@media screen and (min-width:1366px) {
+    .rowenta_tn .hybrid_trimmer .hybrid_block .hybrid_text_block h3{
+        font-size: 40px;
+    }
+    .rowenta_tn .hybrid_trimmer .hybrid_block .hybrid_text_block h2{
+        margin-bottom: 24px;
+        font-size: 40px;
+    }
+
+    .rowenta_tn .hybrid_trimmer .hybrid_block{
+        gap: 85px;
+        padding: 57px 72px;
+    }
+
+    .rowenta_tn .hybrid_trimmer .logo_block{
+        padding-bottom: 36px;
+    }
+
+    .rowenta_tn .hybrid_trimmer .logo_rowenta_tn{
+        width: 353px;
+    }
+    .rowenta_tn .hybrid_trimmer .hybrid_block .f1_logo{
+        width: 295px;
+    }
+
+    .rowenta_tn .hybrid_trimmer .hybrid_block .hybrid_photo{
+        width: 124px;
+        right: 180px;
+        bottom: -80px;
+    }
+
+    .rowenta_tn .hybrid_trimmer{
+        padding:60px 79px 0;
+    }
+
+    .rowenta_tn p { 
+        font-size: 18px;
+      }
+      .rowenta_tn h3,
+      .rowenta_tn h2 {
+        font-size: 32px;
+      }
+
+
+}
+
+
+
+    /* hybrid_rowenta */
+    
+
+
+    .rowenta_tn .hybrid_rowenta{
+        padding: 40px 16px;
+        text-align: center;
+    }
+    .rowenta_tn .hybrid_rowenta h3{
+        font-size: 24px;
+    }
+
+    @media screen and (min-width:666px) {
+        .rowenta_tn .hybrid_rowenta{
+            padding: 60px 110px;
+        }
+
+    }
+
+@media screen and (min-width:1024px) {
+    .rowenta_tn .hybrid_rowenta{
+        padding: 80px 186px;
+    }
+    .rowenta_tn .hybrid_rowenta h3{
+        font-size: 30px;
+    }
+
+}
+
+@media screen and (min-width:1366px) {
+    .rowenta_tn .hybrid_rowenta{
+        padding: 80px 320.5px;
+    }
+    .rowenta_tn .hybrid_rowenta h3{
+        font-size: 36px;
+    }
+
+}
+
+
+
+    /* rowenta_tn_left_block rowenta_tn_rigth_block */
+        .rowenta_tn .rowenta_tn_rigth_block,
+        .rowenta_tn .rowenta_tn_left_block{
+            padding: 0 16px 40px;
+            display: grid;
+            gap:24px ;
+        }
+        .rowenta_tn .rowenta_tn_rigth_block .raph,
+        .rowenta_tn .rowenta_tn_left_block .raph{
+            margin-top: 24px;
+        }
+
+        @media screen and (min-width:666px) {
+            .rowenta_tn .rowenta_tn_rigth_block,
+            .rowenta_tn .rowenta_tn_left_block{
+                align-items: center;
+                gap: 58px;
+            }
+            .rowenta_tn .rowenta_tn_rigth_block img{
+                grid-column-start: 2;
+                grid-row-start: 1;
+                
+            }
+            .rowenta_tn .rowenta_tn_left_block{
+                padding: 0 59px 0 24px;
+                grid-template-columns: 266px auto ;
+
+            }
+            .rowenta_tn .rowenta_tn_rigth_block{
+                 padding: 0 24px 0 58px;
+                grid-template-columns:  auto 266px;
+
+            }
+
+
+            .rowenta_tn .precise_edge{
+                padding-bottom: 26px;
+            }
+
+            .rowenta_tn .titanium_blades{
+                padding-bottom: 60px;
+                padding-top: 60px;
+            }
+
+        }
+
+
+        @media screen and (min-width:1024px) {
+            .rowenta_tn .rowenta_tn_rigth_block,
+            .rowenta_tn .rowenta_tn_left_block{
+                gap: 77px;
+            }
+
+            .rowenta_tn .rowenta_tn_left_block{
+                padding: 0 93px 0 40px;
+                grid-template-columns: 42.6% auto ;
+
+            }
+            .rowenta_tn .rowenta_tn_rigth_block{
+                 padding: 0 40px 0 93px;
+                grid-template-columns:  auto 42.6%;
+
+            }
+            .rowenta_tn .titanium_blades{
+                padding-bottom: 80px;
+                padding-top: 80px;
+            }
+            .rowenta_tn .precise_edge{
+                padding-bottom: 0;
+            }
+        }
+        @media screen and (min-width:1366px) {
+            .rowenta_tn .rowenta_tn_rigth_block,
+            .rowenta_tn .rowenta_tn_left_block{
+                gap: 102px;
+            }
+
+            .rowenta_tn .rowenta_tn_left_block{
+                padding: 0 158px 0 80px;
+                grid-template-columns:  43.3% auto ;
+
+            }
+            .rowenta_tn .rowenta_tn_rigth_block{
+                 padding: 0 80px 0 158px;
+                grid-template-columns:  auto 43.3%;
+
+            }
+
+            .rowenta_tn .titanium_blades{
+                padding-bottom: 30px;
+                padding-top: 30px;
+            }
+
+        }
+
+/* .rowenta_tn_center_block */
+
+
+.rowenta_tn .rowenta_tn_center_block{
+        padding: 0 16px 40px;
+        display: grid;
+        gap: 40px;
+    }
+
+    .rowenta_tn .footnote{
+        font-size: 12px;
+        color: #9999;
+        margin-top: 8px;
+    }
+    @media screen and (min-width:666px) {
+        .rowenta_tn .rowenta_tn_center_block{
+            text-align: center;
+            padding: 80px 24px 60px;
+            gap:60 ;
+        }
+
+        .rowenta_tn .footnote{
+            font-size: 14px;
+            margin-top: 10px;
+        }
+
+    }
+
+    @media screen and (min-width:1024px) {
+        .rowenta_tn .rowenta_tn_center_block{
+            padding: 80px 40px;
+            gap:80px;
+        }
+
+
+
+    }
+
+    @media screen and (min-width:1366px) {
+        .rowenta_tn .rowenta_tn_center_block{
+            padding: 80px;
+        }
+        .rowenta_tn .rowenta_tn_center_block .footnote{
+            margin-top: 24px;
+        }
+        .rowenta_tn .footnote{
+            margin-top: 16px;
+        }
+    }
